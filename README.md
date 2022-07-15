@@ -24,5 +24,19 @@ A fonte deve ser capaz de variar sua tensão entre 3 e 12 volts.
 ![Diagrama da fonte no Eagle](imagens/Eagle3.jpg "Diagrama da fonte no software Eagle")
 ![Diagrama da fonte no Eagle](imagens/Eagle4.jpg "Diagrama da fonte no software Eagle")
 
+## Escolha dos componentes:
+| Quantidade | Componentes        | Valor R$ |
+|------------|--------------------|----------|
+| 4x         | Diodo retificador  | [R$ 0,15  x  4 = R$0,60]|
+| 1          | Led Vermelho 5mm   | [R$ 0,50] |
+| 2          | Resistor 1K ohm    | [R$ 0,07 x 2 = R$0,14]|
+| 1          | Resistor 2.2k      | [R$ 0,07]|
+| 1          | Potenciômetro  5k  | [R$ 7,00]|
+| 1          | Diodo Zener (13v)  | [R$ 0,48]|
+| 1          | Transistor NPN     | [R$ 0,50]|
+| 1          | Fusível            | [R$ 1,10]|
+| 1          | Capacitor          | [R$ 1,40]|
+| **Total**  |                    |  R$ 11,72|
+
 
 
