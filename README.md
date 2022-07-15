@@ -18,7 +18,11 @@ A fonte deve ser capaz de variar sua tensão entre 3 e 12 volts.
 ![Equações da Fonte.](Fonte_do_Simon.pdf "Equações da Fonte.")
 
 
-
 ## Imagem esquemático da PCB no Eagle
+![Diagrama da fonte no Eagle](imagens/Eagle1.jpg "Diagrama da fonte no software Eagle")
+![Diagrama da fonte no Eagle](imagens/Eagle2.jpg "Diagrama da fonte no software Eagle")
+![Diagrama da fonte no Eagle](imagens/Eagle3.jpg "Diagrama da fonte no software Eagle")
+![Diagrama da fonte no Eagle](imagens/Eagle4.jpg "Diagrama da fonte no software Eagle")
+
 
 
