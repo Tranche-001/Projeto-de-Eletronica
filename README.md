@@ -1,5 +1,5 @@
 # Projeto-de-Eletronica-USP
-##Participantes:
+## Participantes:
 | **Nome Completo**              | **N°USP**|
 |--------------------------------|----------|
 | [Guilherme Motta Tranche](https://github.com/Tranche-001)               | 13671549 |
@@ -11,10 +11,8 @@
 Desenvolver uma fonte de tensão retificadora que transforma uma corrente alternada de tensão 127RMS em uma corrente contínua.
 A fonte deve ser capaz de variar sua tensão entre 3 e 12 volts.
 
-##Componentes:
+## Componentes:
 
-
-## Escolha dos componentes:
 | Quantidade | Componentes        | Valor R$ |
 |------------|--------------------|----------|
 | 5x         | Diodo 1N4001       | [R$ 0,15  x  5 = R$0,75](https://www.baudaeletronica.com.br/diodo-1n4001.html) |
