@@ -12,5 +12,6 @@ Desenvolver uma fonte de tensão retificadora que transforma uma corrente altern
 A fonte deve ser capaz de variar sua tensão entre 3 e 12 volts.
 
 ## Falstad:
+imagens/falstad.jpg
 
 
