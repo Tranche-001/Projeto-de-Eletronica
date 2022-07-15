@@ -12,10 +12,10 @@ Desenvolver uma fonte de tensão retificadora que transforma uma corrente altern
 A fonte deve ser capaz de variar sua tensão entre 3 e 12 volts.
 
 ## Falstad:
-![Diagrama da fonte no software Falstad](imagens/falstad.jpg "Diagrama da fonte no software Falstad")
+![Diagrama da fonte no Falstad](imagens/falstad.jpg "Diagrama da fonte no software Falstad")
 
 ## Equações:
-![Diagrama da fonte no software Falstad](Fonte_do_Simon.pdf "Equações da Fonte.")
+![Equações da Fonte.](Fonte_do_Simon.pdf "Equações da Fonte.")
 
 
 
