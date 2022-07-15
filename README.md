@@ -7,7 +7,7 @@
 | [Raphael David Phillippe Levéque](https://github.com/raphaelleveque)| 12542522 |
 
 
-##Objetivo:
+## Objetivo:
 Desenvolver uma fonte de tensão retificadora que transforma uma corrente alternada de tensão 127RMS em uma corrente contínua.
 A fonte deve ser capaz de variar sua tensão entre 3 e 12 volts.
 
