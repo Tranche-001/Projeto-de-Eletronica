@@ -3,8 +3,8 @@
 | **Nome Completo**              | **N°USP**|
 |--------------------------------|----------|
 | [Guilherme Motta Tranche](https://github.com/Tranche-001)               | 13671549 |
-| [Allan Garcia Cavalcante e Silva](https://github.com/rinderomna)         | 13731222 | 
-| [Raphael David Phillippe Levéque](https://github.com/raphaelleveque)| 12542522 |
+| [Allan Garcia Cavalcante e Silva]()         | 13731222 | 
+| [Téo Sobrino Alves]()| 12557192 |
 
 
 ## Objetivo:
