@@ -15,7 +15,7 @@ A fonte deve ser capaz de variar sua tensão entre 3 e 12 volts.
 ![Diagrama da fonte no Falstad](imagens/falstas.jpg "Diagrama da fonte no software Falstad")
 
 ## Equações:
-![Equações da Fonte.](Fonte_do_Simon(4).pdf "Equações da Fonte.")
+![Equações da Fonte.](Fonte_do_Simon.pdf "Equações da Fonte.")
 
 
 ## Imagem esquemático da PCB no Eagle
