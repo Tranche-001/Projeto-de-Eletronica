@@ -39,5 +39,7 @@ A fonte deve ser capaz de variar sua tensão entre 3 e 12 volts.
 | 1          | Capacitor          | [R$ 1,40]|
 | **Total**  |                    |  R$ 11,72|
 
+## Link dos videos
+https://youtu.be/LUXpvP4fZ_o
 
 
